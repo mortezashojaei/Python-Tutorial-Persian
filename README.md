@@ -12,7 +12,7 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 |                      **Linkedin**                      | [@arash-yeganeh](https://www.linkedin.com/in/arash-yeganeh/) |
 |                      **YouTube**                       |       [@geek_cast](https://www.youtube.com/@geek_cast)       |
 |                       **GitHub**                       |       [arashyeganeh](https://github.com/arashyeganeh)        |
-| **Geek Cast** <br>( learning and teaching marketplace) |             [GeekCast.net](https://geekcast.net)             |
+| **Geek Cast** <br>(learning and teaching marketplace) |             [GeekCast.net](https://geekcast.net)             |
 
 ## Python  Basic
 
